@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=dita-izaty&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://profile-assets.showwcase.com/36284/1660556490091-4f70f5466aba0a28cce02faadd86d272da6bef80_s2_n2.png"/>
+  <img src="https://profile-assets.showwcase.com/36284/1660556490091-4f70f5466aba0a28cce02faadd86d272da6bef80_s2_n2.png" width="998" height="429"/>
 </p>
 
 
