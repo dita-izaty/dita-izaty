@@ -15,17 +15,13 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://visitcount.itsvg.in/api?id=dita-izaty&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://profile-assets.showwcase.com/36284/1660556490091-4f70f5466aba0a28cce02faadd86d272da6bef80_s2_n2.png" width="1098" height="429"/>
-</p>
-
 
 # 💫 About Me:
 🎓 I am currently pursuing my **Bachelor's in Information Systems**<br>
 🔭 I’m currently working on **Content Writer**<br>
 👯 I’m looking to collaborate on **Writing and Open Source**<br>
 🌱 I’m currently learning **React, Next.js, Svelte, Fullstack Web Development**<br>
-💬 Ask me about **HTML&CSS, Tech & Psychology**<br>
+💬 Ask me about **HTML&CSS, Tech & Psychology, K-pop Group (TWICE), K-Drama, Anime**<br>
 📫 How to reach me **izatyproject@gmail.com**<br>
 📄 Know about my experiences [dita-izaty.showwcase.com](dita-izaty.showwcase.com)<br>
 😄 Pronouns **She/Her**<br>
@@ -34,13 +30,36 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ditaizaty)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@izatydita) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@izatydita) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://dir-blogs.hashnode.dev/)
 [![Blogger](https://img.shields.io/badge/Blogger-F57C00.svg?logo=Blogger&logoColor=white)](https://dir-blogs.blogspot.com/)
 [![Quora](https://img.shields.io/badge/Quora-F52936.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dita-Izaty)
 [![Tumblr](https://img.shields.io/badge/Tumblr-001832.svg?logo=Tumblr&logoColor=white)](https://www.tumblr.com/blog/dita-izaty)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dir_archives)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/uc6znfr1x69jxvrhqj7oilbw) 
+
+<p align="center">
+  <img src="https://profile-assets.showwcase.com/36284/1660556490091-4f70f5466aba0a28cce02faadd86d272da6bef80_s2_n2.png" width="1098" height="429"/>
+</p>
+
+## 📝Blog Post:
+[![Showwcase](https://img.shields.io/badge/Showwcase-%171718.svg?logo=Showwcase&logoColor=white)](dita-izaty.showwcase.com)
+1. [How to Fix "npm WARN tar TAR_ENTRY_ERROR ENOENT](https://www.showwcase.com/show/17573/how-to-fix-npm-warn-tar-tarentryerror-enoent-no-such-file-directory)
+1. [What is a CSS Generator?](https://www.showwcase.com/thread/50124)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://dir-blogs.hashnode.dev/)
+1. [What are div::before and div::after? How do we use them ?](https://dir-blogs.hashnode.dev/what-are-divbefore-and-divafter-how-do-we-use-them)
+1. [Android Phone Can't Upload Files In Browser Due To Low Memory](https://dir-blogs.hashnode.dev/android-phone-cant-upload-files-in-browser-due-to-low-memory)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@izatydita)
+1. [How to Install & Configuration Tailwind CSS | Beginners Guide](https://blog.devgenius.io/how-to-install-configuration-tailwind-css-beginners-guide-82aa2d87c3da)
+1. [How To Embrace Your Introverted Side and Use It To Your Advantage](https://medium.com/@izatydita/how-to-embrace-your-introverted-side-and-use-it-to-your-advantage-ef778e8c449b)
+1. [Poem | Dialogue with The Heart](https://medium.com/@izatydita/dialogue-with-the-heart-20fa9604ca1d)
+
+[![Quora](https://img.shields.io/badge/Quora-F52936.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dita-Izaty)
+1. [Are INFJs self-motivated?](https://qr.ae/pvWFqj)
+1. [Introverts are not shy, we just prefer to be alone](https://qr.ae/pveQHF)
+1. [Poem | Pelangi Setelah Hujan](https://qr.ae/pvZQKR)
 
 
 # 💻 Tech Stack:
