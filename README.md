@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 1. [How to Install & Configuration Tailwind CSS | Beginners Guide](https://blog.devgenius.io/how-to-install-configuration-tailwind-css-beginners-guide-82aa2d87c3da)
 1. [How To Embrace Your Introverted Side and Use It To Your Advantage](https://medium.com/@izatydita/how-to-embrace-your-introverted-side-and-use-it-to-your-advantage-ef778e8c449b)
 1. [Poem | Dialogue with The Heart](https://medium.com/@izatydita/dialogue-with-the-heart-20fa9604ca1d)
+1. [Are there actually benefits to being kind?](https://medium.com/@izatydita/are-there-actually-benefits-to-being-kind-7a0d30fd12c8)
 
 [![Quora](https://img.shields.io/badge/Quora-F52936.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dita-Izaty)
 1. [Are INFJs self-motivated?](https://qr.ae/pvWFqj)
